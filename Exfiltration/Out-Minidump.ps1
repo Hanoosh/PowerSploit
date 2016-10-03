@@ -128,4 +128,4 @@ function Out-Minidump
 
     END {}
 }
-Get-Process | Out-Minidump -DumpFilePath C:\temp
+Get-Process | Out-Minidump -DumpFilePath m:\temp
